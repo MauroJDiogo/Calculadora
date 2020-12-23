@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora de operações padrão com data e hora
+ Calculadora de operações padrão com data e hora.
